@@ -1,0 +1,69 @@
+input#search {
+  width: 300px;
+  float: right;
+}
+
+button {
+  float: right;
+  margin-right: 5px;
+}
+
+nav.bar{
+  width: 100%;
+  background-color: beige;
+  height: 50px;
+
+}
+
+#searchbar{
+    padding: 15px;
+  
+}
+
+.item{
+  padding: 5px;
+  
+}
+
+div#videocss {
+  margin-top: 15px;
+  padding: 15px;
+  float: right;
+  margin-right: 5px;
+  
+}
+div#desc {
+  /*padding: 15px; */
+  float: right;
+  margin-top: 5px; 
+}
+
+span.txtowner {
+  font-size: smaller;
+  font-weight: normal;
+}
+
+span.txt {
+  margin-left: 15px;
+  float: right;
+  font-size: smaller;
+}
+span.txtviews {
+  font-size: small;
+  font-weight: normal;
+}
+.infoitem {
+  margin-left: 20px;
+  float: left;
+  margin-bottom: 10px;
+}
+
+
+div#titlelist {
+  margin-top: 15px;
+  float: left;
+  /* width: 100%; */
+  background-color: beige;
+  /* height: 50px; */
+}
+
